@@ -1,6 +1,5 @@
 ### Hello there! 👋 
-I'm Arjun Dadhwal, currently a rising sophomore majoring in Computer Science at Arizona State University and an aspiring Software Developer. My current area of interest is mobile development, especially Android.
-
+I'm Arjun Dadhwal, currently a rising sophomore majoring in Computer Science at Arizona State University and an aspiring Software Developer. My current area of interest is mobile development.
 <!--
 **Ardad2/ardad2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
