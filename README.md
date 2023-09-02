@@ -1,5 +1,5 @@
 ### Hello there! 👋 
-I'm Arjun Dadhwal, currently a senior majoring in Computer Science at Arizona State University and a Software Development Enthusiast. 
+I'm Arjun Dadhwal, currently an undergraduate senior majoring in Computer Science at Arizona State University and a Software Development enthusiast. 
 <!--
 **Ardad2/ardad2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
