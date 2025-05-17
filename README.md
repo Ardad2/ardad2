@@ -1,7 +1,5 @@
 ### Hello there! 👋 
-I'm Arjun Dadhwal, currently a 4+1 Master's student majoring in Computer Science at Arizona State University and a Software Development enthusiast. 
-
-Actively seeking Software Engineering full time opportunities starting the Summer of 2025.
+I'm Arjun Dadhwal, a 4+1 Master's graduate with a major in Computer Science from Arizona State University.
 
 <!--
 **Ardad2/ardad2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
