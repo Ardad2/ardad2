@@ -1,5 +1,5 @@
 ### Hello there! 👋 
-I'm Arjun Dadhwal, a 4+1 Master's graduate in Computer Science from Arizona State University. I'll be starting a PhD in Computer Science in Fall 2025.
+I'm Arjun Dadhwal, currently a Computer Science PhD student at Tulane University. I'm a 4+1 Master's graduate in Computer Science from Arizona State University.
 
 <!--
 **Ardad2/ardad2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
